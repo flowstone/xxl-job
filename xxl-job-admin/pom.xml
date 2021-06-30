@@ -71,10 +71,10 @@
 			<artifactId>ojdbc6</artifactId>
 			<version>11.2.0.4</version>
 		</dependency>
-		<dependency>
+<!--		<dependency>
 			<groupId>com.baomidou</groupId>
 			<artifactId>mybatis-plus-boot-starter</artifactId>
-		</dependency>
+		</dependency>-->
 		<!-- xxl-job-core -->
 		<dependency>
 			<groupId>com.xuxueli</groupId>
